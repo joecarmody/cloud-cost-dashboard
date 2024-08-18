@@ -1,0 +1,28 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 250px;
+    background-color: #1F1F1F;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.sidebar h2 {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    padding: 10px 0;
+    color: #AAA;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.sidebar ul li:hover {
+    color: #FFFFFF;
+}

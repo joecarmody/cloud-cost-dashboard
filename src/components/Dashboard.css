@@ -1,0 +1,6 @@
+/* src/components/Dashboard.css */
+.dashboard-content {
+    padding: 20px;
+    flex: 1;
+    background-color: #181818;
+}

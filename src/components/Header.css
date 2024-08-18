@@ -1,0 +1,29 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1F1F1F;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.header h1 {
+    color: #FFFFFF;
+}
+
+.header .user-profile {
+    display: flex;
+    align-items: center;
+}
+
+.header .user-profile span {
+    margin-right: 10px;
+    color: #AAA;
+}
+
+.header .user-profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
