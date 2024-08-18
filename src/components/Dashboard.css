@@ -1,6 +1,14 @@
 /* src/components/Dashboard.css */
-.dashboard-content {
+.dashboard-container {
     padding: 20px;
-    flex: 1;
-    background-color: #181818;
+    color: #FFFFFF;
+    background-color: #2C2C2C;
+}
+
+.plot-container {
+    margin-bottom: 40px;
+}
+
+.plot-container h3 {
+    margin-bottom: 10px;
 }
